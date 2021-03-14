@@ -2,6 +2,8 @@
 
 <h5>My name is Agustin, I'm a Full Stack web and mobile developer!</h5>
 
+
+- 💻 As a MERN Full stack developer, I'm into Javascript with React, Node, Express and MongoDB
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning relational databases
 - 👯 I’m looking to collaborate on open-source projects
